@@ -9,9 +9,9 @@ int main() {
     char Nome[50];
     char Codigo[5];
 
-    printf("Desafio Super Trunfo - Paises!\n");
+    printf("------Desafio Super Trunfo - Paises!------\n");
     
-    printf("Dados da Carta 1!\n");
+    printf("======Dados da Carta 1!======\n");
     
     printf("Digite o Nome da Cidade: \n");
     scanf("%s", Nome);
@@ -31,7 +31,7 @@ int main() {
     printf("Digite os Pontos Turisticos: \n");
     scanf("%d", &PontosTuristicos);
 
-    printf("Carta 1!\n");
+    printf("======Carta 1!======\n");
     printf("Nome da Cidade: %s\n", Nome);
     printf("Código da Cidade: %s\n", Codigo);
     printf("População: %d\n", Populacao);
@@ -39,7 +39,7 @@ int main() {
     printf("PIB: %.2f\n", PIB);
     printf("Pontos Turisticos: %d\n", PontosTuristicos);
 
-    printf("Dados da Carta 2!\n");
+    printf("======Dados da Carta 2!======\n");
 
     printf("Digite o Nome da Cidade: \n");
     scanf("%s", Nome);
@@ -59,7 +59,7 @@ int main() {
     printf("Digite os Pontos Turisticos: \n");
     scanf("%d", &PontosTuristicos);
 
-    printf("Carta 1!\n");
+    printf("======Carta 2!======\n");
     printf("Nome da Cidade: %s\n", Nome);
     printf("Código da Cidade: %s\n", Codigo);
     printf("População: %d\n", Populacao);
